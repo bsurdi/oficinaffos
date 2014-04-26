@@ -1,4 +1,6 @@
-oficinaffos
-===========
-Bruno Surdi
-projeto oficina ffos
+oficina-ffos
+============
+
+Projeto reliazado durante a Oficina de Firefox
+
+Eliezer Bernart
